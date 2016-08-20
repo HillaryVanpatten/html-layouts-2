@@ -1,0 +1,54 @@
+ body {
+  margin: 20px;
+}
+.top-boxes {
+  display: flex;
+  height: 100px;
+}
+
+.small-box {
+  flex: 1;
+  height: 100%;
+}
+
+.large-box {
+  flex: 2;
+  height: 100%;
+
+}
+.green {
+  background:green;
+}
+.yellow {
+  background: yellow;
+}
+
+.gray {
+  background: gray;
+}
+
+.larger-boxes {
+  display: flex;
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+footer {
+  display: flex;
+  width: 100%auto;
+  height: 100px;
+}
+
+.smallest-box {
+  width:80%;
+  height: 100%;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+
+.small-box.yellow {
+  margin:0 20px;
+}
