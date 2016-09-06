@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+.top-box {
+  height:50px;
+  width: 100%;
+  background:black;
+  font-size:10px;
+  color:white;
+}
+.main-container {
+  height:600px;
+  width:100%;
+  background:white;
+}
+
+.little-container {
+  height: 200px;
+  width: 40%;
+  background:gray;
+  float: right;
+  margin: 20px;
+}
+  .bottom-box {
+  height:50px;
+  width:100%;
+  background:black;
+}
